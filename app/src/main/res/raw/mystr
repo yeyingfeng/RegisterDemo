@@ -1,0 +1,12 @@
+[
+    {
+        status:400,
+        msg:"注册失败",
+        data:null
+    },
+    {
+        status:200,
+        msg:"注册成功",
+        data:null
+    }
+]
